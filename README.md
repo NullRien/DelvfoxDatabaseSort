@@ -7,6 +7,7 @@ You can use the python file if you know how or you can run the compiled EXE. Jus
 
 If the format does not look like this please change the code message NullRien#0001 on discord
 format used:
+```
 ***************** New Hit *****************
 Email : email@email.com
 Password : password
@@ -19,3 +20,4 @@ Audiocount : 0
 Videocount : 0
 Compressedcount : 0
 ===========================================
+```
